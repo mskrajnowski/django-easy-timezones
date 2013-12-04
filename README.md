@@ -8,12 +8,6 @@ Easy timezones for Django (>=1.4) based on MaxMind GeoIP.
 Quick start
 -----------
 
-0. Install django-easy-timezones
-
-    ```python
-    pip install django-easy-timezones
-    ```
-
 1. Add "easy-timezones" to your INSTALLED_APPS setting like this:
 
     ```python
